@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Pedro Gonzalez 👋
 
-<!--
-**pedritogonzalez88/pedritogonzalez88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I’m currently working on [ProjectName](link-to-project)
+- 🌱 I’m currently learning [Technology/Skill]
+- 👯 I’m looking to collaborate on [Project/Technology]
+- 🤔 I’m looking for help with [Project/Technology]
+- 💬 Ask me about [Topic]
+- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: [An interesting fact about you]
 
-Here are some ideas to get you started:
+## GitHub Stats
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedritogonzalez88&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedritogonzalez88&layout=compact&theme=radical)
